@@ -1,6 +1,6 @@
 # learning backend 
 
-clone this link into your idel :
+clone this project :
 ```
 https://github.com/harsh-munjapara/node-backend.git
 ```
